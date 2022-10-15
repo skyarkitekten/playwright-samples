@@ -1,0 +1,24 @@
+{
+  "name": "playwright-samples",
+  "version": "1.0.0",
+  "description": "This project shows how to run simple end-to-end tests in Playwright.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyarkitekten/playwright-samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyarkitekten/playwright-samples/issues"
+  },
+  "homepage": "https://github.com/skyarkitekten/playwright-samples#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
