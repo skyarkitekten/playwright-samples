@@ -12,3 +12,6 @@ To setup the sample manually:
     - `tests` folder
     - Add GitHub Actions workflow
     - Install Playwright browsers
+1. To verify the setup, run the following:
+    - `npx playwright test`
+    - `npx playwright show-results`
